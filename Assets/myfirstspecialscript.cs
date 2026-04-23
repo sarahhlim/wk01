@@ -6,6 +6,7 @@ public class myfirstspecialscript : MonoBehaviour
     void Start()
     {
         print("hello world!!!!!");
+        print("Welcome to Unity!!");
     }
 
     // Update is called once per frame
